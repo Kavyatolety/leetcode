@@ -18,6 +18,7 @@
 | [1155-product-sales-analysis-iii](https://github.com/Kavyatolety/leetcode/tree/master/1155-product-sales-analysis-iii) |
 | [1877-find-followers-count](https://github.com/Kavyatolety/leetcode/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Kavyatolety/leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
+| [1942-primary-department-for-each-employee](https://github.com/Kavyatolety/leetcode/tree/master/1942-primary-department-for-each-employee) |
 ## Two Pointers
 |  |
 | ------- |

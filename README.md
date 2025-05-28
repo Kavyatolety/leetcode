@@ -17,6 +17,7 @@
 | [1135-customers-who-bought-all-products](https://github.com/Kavyatolety/leetcode/tree/master/1135-customers-who-bought-all-products) |
 | [1155-product-sales-analysis-iii](https://github.com/Kavyatolety/leetcode/tree/master/1155-product-sales-analysis-iii) |
 | [1877-find-followers-count](https://github.com/Kavyatolety/leetcode/tree/master/1877-find-followers-count) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Kavyatolety/leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 ## Two Pointers
 |  |
 | ------- |

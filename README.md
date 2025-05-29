@@ -33,4 +33,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kavyatolety/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Array
+|  |
+| ------- |
+| [0485-max-consecutive-ones](https://github.com/Kavyatolety/leetcode/tree/master/0485-max-consecutive-ones) |
 <!---LeetCode Topics End-->

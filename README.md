@@ -19,6 +19,7 @@
 | [1135-customers-who-bought-all-products](https://github.com/Kavyatolety/leetcode/tree/master/1135-customers-who-bought-all-products) |
 | [1155-product-sales-analysis-iii](https://github.com/Kavyatolety/leetcode/tree/master/1155-product-sales-analysis-iii) |
 | [1278-product-price-at-a-given-date](https://github.com/Kavyatolety/leetcode/tree/master/1278-product-price-at-a-given-date) |
+| [1625-group-sold-products-by-the-date](https://github.com/Kavyatolety/leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1877-find-followers-count](https://github.com/Kavyatolety/leetcode/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Kavyatolety/leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/Kavyatolety/leetcode/tree/master/1942-primary-department-for-each-employee) |

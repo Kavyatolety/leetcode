@@ -42,4 +42,9 @@
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/Kavyatolety/leetcode/tree/master/0485-max-consecutive-ones) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Kavyatolety/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+## Math
+|  |
+| ------- |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Kavyatolety/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->

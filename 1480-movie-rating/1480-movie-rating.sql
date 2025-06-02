@@ -1,5 +1,6 @@
 # Write your MySQL query statement below
-( SELECT u.name as results
+(
+SELECT u.name as results
 FROM Users as u
 JOIN MovieRating as mr
 ON u.user_id = mr.user_id
@@ -18,3 +19,5 @@ GROUP BY m.movie_id
 ORDER BY AVG(mr1.rating) DESC, m.title ASC
 LIMIT 1
 );
+
+

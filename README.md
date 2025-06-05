@@ -24,6 +24,7 @@
 | [1452-restaurant-growth](https://github.com/Kavyatolety/leetcode/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/Kavyatolety/leetcode/tree/master/1480-movie-rating) |
 | [1625-group-sold-products-by-the-date](https://github.com/Kavyatolety/leetcode/tree/master/1625-group-sold-products-by-the-date) |
+| [1670-patients-with-a-condition](https://github.com/Kavyatolety/leetcode/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/Kavyatolety/leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1877-find-followers-count](https://github.com/Kavyatolety/leetcode/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Kavyatolety/leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |

@@ -21,6 +21,7 @@
 | [1155-product-sales-analysis-iii](https://github.com/Kavyatolety/leetcode/tree/master/1155-product-sales-analysis-iii) |
 | [1278-product-price-at-a-given-date](https://github.com/Kavyatolety/leetcode/tree/master/1278-product-price-at-a-given-date) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Kavyatolety/leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
+| [1452-restaurant-growth](https://github.com/Kavyatolety/leetcode/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/Kavyatolety/leetcode/tree/master/1480-movie-rating) |
 | [1625-group-sold-products-by-the-date](https://github.com/Kavyatolety/leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1877-find-followers-count](https://github.com/Kavyatolety/leetcode/tree/master/1877-find-followers-count) |

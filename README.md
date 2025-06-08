@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/Kavyatolety/leetcode/tree/master/0180-consecutive-numbers) |
+| [0196-delete-duplicate-emails](https://github.com/Kavyatolety/leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0596-classes-more-than-5-students](https://github.com/Kavyatolety/leetcode/tree/master/0596-classes-more-than-5-students) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Kavyatolety/leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0610-triangle-judgement](https://github.com/Kavyatolety/leetcode/tree/master/0610-triangle-judgement) |

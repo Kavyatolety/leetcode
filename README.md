@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kavyatolety/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kavyatolety/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kavyatolety/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -54,6 +55,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kavyatolety/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/Kavyatolety/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kavyatolety/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Kavyatolety/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |

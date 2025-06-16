@@ -28,6 +28,7 @@
 | [0626-exchange-seats](https://github.com/Kavyatolety/leetcode/tree/master/0626-exchange-seats) |
 | [1135-customers-who-bought-all-products](https://github.com/Kavyatolety/leetcode/tree/master/1135-customers-who-bought-all-products) |
 | [1155-product-sales-analysis-iii](https://github.com/Kavyatolety/leetcode/tree/master/1155-product-sales-analysis-iii) |
+| [1179-game-play-analysis-i](https://github.com/Kavyatolety/leetcode/tree/master/1179-game-play-analysis-i) |
 | [1278-product-price-at-a-given-date](https://github.com/Kavyatolety/leetcode/tree/master/1278-product-price-at-a-given-date) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Kavyatolety/leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1452-restaurant-growth](https://github.com/Kavyatolety/leetcode/tree/master/1452-restaurant-growth) |

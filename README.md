@@ -50,6 +50,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Kavyatolety/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kavyatolety/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kavyatolety/leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Kavyatolety/leetcode/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kavyatolety/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -67,6 +68,7 @@
 | [0027-remove-element](https://github.com/Kavyatolety/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Kavyatolety/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Kavyatolety/leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Kavyatolety/leetcode/tree/master/0088-merge-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/Kavyatolety/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kavyatolety/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Kavyatolety/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -78,6 +80,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Kavyatolety/leetcode/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kavyatolety/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |

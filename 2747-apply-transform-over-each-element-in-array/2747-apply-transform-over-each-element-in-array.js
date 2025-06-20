@@ -8,5 +8,5 @@ var map = function(arr, fn) {
     for (let i=0;i<arr.length;i++) {
         transformedArr[i] = fn(arr[i],i);
     }
-    return transformedArr;
+    return transformedArr; /* returns the array with transformed values */
 }

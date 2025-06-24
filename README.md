@@ -72,6 +72,7 @@
 | [0035-search-insert-position](https://github.com/Kavyatolety/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Kavyatolety/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Kavyatolety/leetcode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kavyatolety/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Kavyatolety/leetcode/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/Kavyatolety/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kavyatolety/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -94,4 +95,20 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Kavyatolety/leetcode/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kavyatolety/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kavyatolety/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kavyatolety/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kavyatolety/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->

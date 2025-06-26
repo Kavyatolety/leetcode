@@ -47,6 +47,7 @@
 | [1942-primary-department-for-each-employee](https://github.com/Kavyatolety/leetcode/tree/master/1942-primary-department-for-each-employee) |
 | [2057-count-salary-categories](https://github.com/Kavyatolety/leetcode/tree/master/2057-count-salary-categories) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Kavyatolety/leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
+| [3767-find-students-who-improved](https://github.com/Kavyatolety/leetcode/tree/master/3767-find-students-who-improved) |
 ## Two Pointers
 |  |
 | ------- |

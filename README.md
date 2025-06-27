@@ -49,6 +49,7 @@
 | [2127-employees-whose-manager-left-the-company](https://github.com/Kavyatolety/leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [3530-odd-and-even-transactions](https://github.com/Kavyatolety/leetcode/tree/master/3530-odd-and-even-transactions) |
 | [3767-find-students-who-improved](https://github.com/Kavyatolety/leetcode/tree/master/3767-find-students-who-improved) |
+| [3816-dna-pattern-recognition](https://github.com/Kavyatolety/leetcode/tree/master/3816-dna-pattern-recognition) |
 ## Two Pointers
 |  |
 | ------- |

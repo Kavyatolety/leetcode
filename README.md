@@ -57,6 +57,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Kavyatolety/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kavyatolety/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kavyatolety/leetcode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kavyatolety/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Kavyatolety/leetcode/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kavyatolety/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## String
@@ -64,6 +65,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kavyatolety/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Kavyatolety/leetcode/tree/master/0006-zigzag-conversion) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kavyatolety/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,4 +117,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kavyatolety/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kavyatolety/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->

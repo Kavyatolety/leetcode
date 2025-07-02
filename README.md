@@ -67,6 +67,7 @@
 | [0006-zigzag-conversion](https://github.com/Kavyatolety/leetcode/tree/master/0006-zigzag-conversion) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kavyatolety/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Kavyatolety/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Kavyatolety/leetcode/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Kavyatolety/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Kavyatolety/leetcode/tree/master/0067-add-binary) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Kavyatolety/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Sorting
 |  |
@@ -101,6 +103,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Kavyatolety/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Kavyatolety/leetcode/tree/master/0136-single-number) |
 ## Divide and Conquer
 |  |
@@ -122,4 +125,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kavyatolety/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Kavyatolety/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->

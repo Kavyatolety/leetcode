@@ -66,6 +66,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kavyatolety/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Kavyatolety/leetcode/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/Kavyatolety/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kavyatolety/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Kavyatolety/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Kavyatolety/leetcode/tree/master/0067-add-binary) |
@@ -76,6 +77,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Kavyatolety/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kavyatolety/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kavyatolety/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Kavyatolety/leetcode/tree/master/0035-search-insert-position) |
@@ -142,4 +144,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kavyatolety/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Kavyatolety/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

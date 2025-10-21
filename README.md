@@ -35,6 +35,7 @@
 | [0610-triangle-judgement](https://github.com/Kavyatolety/leetcode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Kavyatolety/leetcode/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/Kavyatolety/leetcode/tree/master/0626-exchange-seats) |
+| [0627-swap-salary](https://github.com/Kavyatolety/leetcode/tree/master/0627-swap-salary) |
 | [1135-customers-who-bought-all-products](https://github.com/Kavyatolety/leetcode/tree/master/1135-customers-who-bought-all-products) |
 | [1155-product-sales-analysis-iii](https://github.com/Kavyatolety/leetcode/tree/master/1155-product-sales-analysis-iii) |
 | [1179-game-play-analysis-i](https://github.com/Kavyatolety/leetcode/tree/master/1179-game-play-analysis-i) |

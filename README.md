@@ -91,6 +91,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kavyatolety/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Kavyatolety/leetcode/tree/master/0022-generate-parentheses) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kavyatolety/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Array
 |  |
 | ------- |
@@ -145,6 +146,7 @@
 | [0100-same-tree](https://github.com/Kavyatolety/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Kavyatolety/leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kavyatolety/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kavyatolety/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -156,6 +158,7 @@
 | [0100-same-tree](https://github.com/Kavyatolety/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Kavyatolety/leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kavyatolety/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kavyatolety/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## String Matching
 |  |
 | ------- |
@@ -174,6 +177,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Kavyatolety/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Kavyatolety/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Kavyatolety/leetcode/tree/master/0101-symmetric-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kavyatolety/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Trie
 |  |
 | ------- |

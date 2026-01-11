@@ -107,6 +107,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kavyatolety/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Kavyatolety/leetcode/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/Kavyatolety/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0621-task-scheduler](https://github.com/Kavyatolety/leetcode/tree/master/0621-task-scheduler) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kavyatolety/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Kavyatolety/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Math
@@ -123,6 +124,7 @@
 | [0016-3sum-closest](https://github.com/Kavyatolety/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Kavyatolety/leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Kavyatolety/leetcode/tree/master/0088-merge-sorted-array) |
+| [0621-task-scheduler](https://github.com/Kavyatolety/leetcode/tree/master/0621-task-scheduler) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kavyatolety/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -191,11 +193,13 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kavyatolety/leetcode/tree/master/0011-container-with-most-water) |
+| [0621-task-scheduler](https://github.com/Kavyatolety/leetcode/tree/master/0621-task-scheduler) |
 ## Hash Table
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Kavyatolety/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kavyatolety/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0621-task-scheduler](https://github.com/Kavyatolety/leetcode/tree/master/0621-task-scheduler) |
 ## Backtracking
 |  |
 | ------- |
@@ -205,8 +209,13 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Kavyatolety/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0621-task-scheduler](https://github.com/Kavyatolety/leetcode/tree/master/0621-task-scheduler) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Kavyatolety/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Kavyatolety/leetcode/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
